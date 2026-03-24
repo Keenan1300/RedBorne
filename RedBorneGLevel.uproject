@@ -14,10 +14,6 @@
 		{
 			"Name": "CustomGravityUtilities",
 			"Enabled": false
-		},
-		{
-			"Name": "HttpBlueprint",
-			"Enabled": true
 		}
 	]
 }
